@@ -6,8 +6,8 @@ function minus(n1, n2) {
 	return n1 - n2; 
 }
 
-function multiply(a, b) {
-	return a * b;
+function multiply(n1, n2) {
+	return n1 * n2;
 }
 
 // test
